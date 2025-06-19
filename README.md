@@ -5,6 +5,7 @@ You can run a demo at https://jbeardwo.github.io/MusicTheoryKeyboard/static/html
 
 An interactive educational piano keyboard, designed to help users learn music theory concepts through hands-on practice.
 
+<img src="./MusicTheorySample.png" alt="Music-Theory-Keyboard Screenshot" width="600"/>
 ---
 
 ## 🚀 Project Overview
